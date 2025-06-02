@@ -1,8 +1,8 @@
  ## bom diaaa
-_ ## meu nome è _Rayssa_
-_ tenho 16 anos 
-_ sou estudante do alura
-
-
-
+## meu nome è _Rayssa_
+- tenho 16 anos 
+- sou estudante do alura
+-🫀gosto de assistir filme
+-🐈‍⬛ amo animais
+![.](https://tenor.com/nPe8tnfH8Wm.gif)
 
