@@ -4,5 +4,5 @@
 - sou estudante do alura
 -🫀gosto de assistir filme
 -🐈‍⬛ amo animais
-![](https://tenor.com/eUgyfaJjKE4.gif)
+![.](https://media1.tenor.com/m/6S1bWD8WfZUAAAAd/love-kiss.gif)
 
